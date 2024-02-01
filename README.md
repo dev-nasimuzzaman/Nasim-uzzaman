@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, This is NASIMUZZAMAN</h1>
 <h3 align="center">A passionate Software Engineer from Bangladesh</h3>
 
-<img align="right" alt="coding" width="300" src="https://camo.githubusercontent.com/0eda36005abd9bf7e72584afc2f6ef1e808a357cb65a07fc2fe5036ba5268df7/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f65382f66342f35332f65386634353334363961336563393765636433353464663436356437333931332e676966">
+<img align="right" alt="coding" width="200" src="https://camo.githubusercontent.com/0eda36005abd9bf7e72584afc2f6ef1e808a357cb65a07fc2fe5036ba5268df7/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f65382f66342f35332f65386634353334363961336563393765636433353464663436356437333931332e676966">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nasim-uzzaman&label=Profile%20views&color=0e75b6&style=flat" alt="nasim-uzzaman" /> </p>
 
